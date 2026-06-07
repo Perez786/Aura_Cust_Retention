@@ -30,3 +30,8 @@ o	Exporting to SQL for further investigation and segmentation
 
 🙏 Acknowledgments
 I would like to thank you for taking the time to view my capstone project! Also, if you wish to view the original dataset, it can be found here: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
+
+•	Aura_Updated_Final.xlsx is the cleaned and most up-to-date version of the dataset
+
+🙏 Acknowledgments
+I would like to thank you for taking the time to view my capstone project! Also, if you wish to view the original dataset, it can be found here: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
