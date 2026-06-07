@@ -1,7 +1,10 @@
 🎯 Overview
 This is my Data Analytics capstone project. We were tasked with combining and implementing major learning points into a single cohesive project. 
+
 🛠️ Technological Requirements
+
 We were required to utilize the following tools:
+
 •	Excel
 •	SQL
 •	Google Colab/Python
@@ -9,6 +12,7 @@ We were required to utilize the following tools:
 •	Github
 •	Presentation Software
 •	Vibe-Coding Application Creation
+
 ✨ Project Details
 Based on the requirements for the project, I decided to develop a customer retention strategy for a fictional connectivity platform called Aura Home Systems. The workflow for this project was conducted in this manner: 
 •	Data cleaning in Excel
